@@ -1,6 +1,5 @@
-﻿<h1 align="center">Hi 👋, I'm Nguyen Vu An Khuong</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Vu An Khuong</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
-
 
 - 🌱 I’m currently learning **typescript , react js**
 
@@ -23,3 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvak1999&show_icons=true&locale=en" alt="nvak1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvak1999&" alt="nvak1999" /></p>
+
+## Projects
+
+Here are some of my projects:
+
+| Project Name | Description                           | Frontend Link                                             | Backend Link                                          | Product Link                                           |
+| ------------ | ------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| Booktify     | A bookstore sells books to customers. | [Frontend](https://github.com/nvak1999/book-store-fe.git) | [Backend](https://github.com/nvak1999/book_store.git) | [Product](https://bright-tiramisu-23d6e6.netlify.app/) |
